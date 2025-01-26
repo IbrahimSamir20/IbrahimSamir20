@@ -67,18 +67,18 @@
   <li><b>Problem Solving:</b> Complex algorithm design, optimization, debugging</li>
 </ul>
 
-<h3 align="left">Languages and Tools:</h3>
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,java,ts,html,css,react,nextjs,redux,tailwind,selenium,npm,notion,nodejs,mysql,mongodb,postman,git,github,powershell,discord,figma,idea,kubernetes,docker,c,vim" />
   </a>
-</p>
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-<!-- More icons can be continued in the same pattern -->
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimSamir20&show_icons=true&locale=en&layout=compact" alt="IbrahimSamir20" /></p>
