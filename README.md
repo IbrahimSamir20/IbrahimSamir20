@@ -11,7 +11,7 @@
 <br>
 
 <h1 align="center">I'm Ibrahim Samir</h1>
-<h2 align="center">Software Engineer | Frontend Developer & Software Tester</h2>
+<h2 align="center">Software Engineer | Frontend Web Developer & Software Tester</h2>
 
 <br>
 <div align="center">
@@ -88,16 +88,6 @@
   <a href="mailto:ibrahimsamir.2610@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-        <!-- <a href="https://mostaql.com/u/ammarageeza/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-    <a href="https://youtube.com/@ammarageeza91?si=bHNizIHn9dIL3jX7">
-    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-     </a>
-     <a href="https://t.me/ammarageeza">
-    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a> -->
 </div>
 
 <br>
