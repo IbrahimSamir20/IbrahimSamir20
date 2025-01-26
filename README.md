@@ -35,12 +35,6 @@
 </div>
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ibrahim-samir-a3b546312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-samir-a3b546312" height="30" width="40" /></a>
-</p>
-
-
 <h3 align="left">Professional Skills:</h3>
 <ul>
   <li><b>Software Engineering:</b> Object-oriented design, System architecture, Agile methodologies</li>
@@ -84,6 +78,34 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
+
+## 🤝 Connect With Me:
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/ibrahim-samir-a3b546312" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+  <a href="mailto:ibrahimsamir.2610@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+        <!-- <a href="https://mostaql.com/u/ammarageeza/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+    <a href="https://youtube.com/@ammarageeza91?si=bHNizIHn9dIL3jX7">
+    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+     </a>
+     <a href="https://t.me/ammarageeza">
+    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a> -->
+</div>
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
 ## 📊 My Stats:
 
 <p align="center">
