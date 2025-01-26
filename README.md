@@ -1,11 +1,4 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<a href="https://rishavchanda.io">
-  <img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5yYnQycnpsdTVza2xlajEwaG8xZWZ2dDdhOXNtNnFya280dGV2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif" alt="MasterHead" style="width: 200%;">
-</a>
-<a href="https://rishavchanda.io">
-  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5yYnQycnpsdTVza2xlajEwaG8xZWZ2dDdhOXNtNnFya280dGV2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif" alt="MasterHead" style="width: 200%;">
-</a>
-
 
 <h1 align="center">Hi 👋, I'm Ibrahim Samir</h1>
 <h2 align="center">Software Engineer | Frontend Developer & Software Tester</h2>
