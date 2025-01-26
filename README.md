@@ -11,7 +11,11 @@
 - 💬 Let's talk about **MERN Stack, API Integration, Next.js, Problem Solving, and SEO**
 - 📫 Reach me at **ibrahimsamir.2610@gmail.com**
 - ⚡ Fun fact: **I am Funny**
-
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ibrahim-samir-a3b546312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-samir-a3b546312" height="30" width="40" /></a>
