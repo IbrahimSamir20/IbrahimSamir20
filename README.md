@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ibrahim Samir</h1>
 <h2 align="center">Software Engineer | Frontend Developer & Software Tester</h2>
-<img align="right" alt="Coding" width="400" src="./images/Animation - 1737895682001.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFwZmMzeDA2ZXR5eHFqOHBodzN5MzJ0djk2eWp4OHpvdGZzNncwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IbrahimSamir20&label=Profile%20views&color=0e75b6&style=flat" alt="IbrahimSamir20" /> </p>
 
