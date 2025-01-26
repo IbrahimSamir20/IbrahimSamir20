@@ -33,7 +33,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IbrahimSamir20&show_icons=true&locale=en" alt="IbrahimSamir20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimSamir20&" alt="IbrahimSamir20" /></p> -->
+
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Ibrahim Samir</h1>
 <h2 align="center">Software Engineer | Frontend Developer & Software Tester</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -68,10 +70,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimSamir20&show_icons=true&locale=en&layout=compact" alt="IbrahimSamir20" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IbrahimSamir20&show_icons=true&locale=en" alt="IbrahimSamir20" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimSamir20&" alt="IbrahimSamir20" /></p> --> -->
+
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Ibrahim Samir</h1>
 <h2 align="center">Software Engineer | Frontend Developer & Software Tester</h2>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://lottie.host/d42b2d68-a274-4776-bd76-bb9c5903affe/qKHDhnRwt8.lottie">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IbrahimSamir20&label=Profile%20views&color=0e75b6&style=flat" alt="IbrahimSamir20" /> </p>
 
